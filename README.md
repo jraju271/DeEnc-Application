@@ -1,4 +1,4 @@
-# DeEnc-Application
-A file encryption and decryption application
-●	Python-based file encryption and decryption application utilizing multiple ciphers (viz. atbash, route, etc.), ensuring security.
-●	Implemented a hybrid security model for file or text data with performance comparison of different ciphers.
+# DeEnc
+A file encryption - decryption software, written in plain C++.<br/>
+I'll be updating this shortly.<br/>
+Remind me if I don't.

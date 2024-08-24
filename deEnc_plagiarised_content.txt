@@ -1,0 +1,9 @@
+
+
+Encryption: Converting the data to a form which is not understandable by anyone other than the intended user.
+
+1.1 Encryption
+Data encryption translates data into another form, or code, so that only people with access to a decryption key can read it. Currently, encryption is one of the most popular and effective data security methods used by organisations. Two main types of data encryption exist - asymmetric encryption, also known as public-key encryption, and symmetric encryption. [4]
+The purpose of data encryption is to protect digital data confidentiality as it is stored on computer systems and transmitted using the internet or other computer networks. These algorithms provide confidentiality and drive key security initiatives including authentication, integrity, and non-repudiation. 1.2 Decryption The conversion of encrypted data into its original form is called Decryption. It decodes the encrypted information so that an authorised user can only decrypt the data because decryption requires a secret key or password. [4] Figure 1: Encryption-Decryption Process Overview
+1.3 Ciphers
+In cryptography, a cipher (or cypher) is an algorithm for performing encryption—a series of well-defined steps that can be followed as a procedure.. To encipher or encode is to convert information into cipher or code. In common parlance, "cipher" is synonymous with "code", as they are both a set of steps that encrypt a message; however, the concepts are distinct in cryptography, especially classical cryptography. 
